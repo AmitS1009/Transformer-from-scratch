@@ -8,17 +8,16 @@
 ## Table of contents
 
 1. [Project Overview](#project-overview)
-2. [Why this repo matters (TL;DR for HR)](#why-this-repo-matters-tldr-for-hr)
-3. [Highlights & Features](#highlights--features)
-4. [Architecture & Implementation notes](#architecture--implementation-notes)
-5. [Files in this repo](#files-in-this-repo)
-6. [Requirements & Installation](#requirements--installation)
-7. [Quickstart — training & inference](#quickstart--training--inference)
-8. [How the notebook works (step-by-step)](#how-the-notebook-works-step-by-step)
-9. [Tips for experiments & scaling](#tips-for-experiments--scaling)
-10. [Results examples](#results-examples)
-11. [Known limitations & TODOs](#known-limitations--todos)
-12. [Contribution, License & Contact](#contribution-license--contact)
+2. [Highlights & Features](#highlights--features)
+3. [Architecture & Implementation notes](#architecture--implementation-notes)
+4. [Files in this repo](#files-in-this-repo)
+5. [Requirements & Installation](#requirements--installation)
+6. [Quickstart — training & inference](#quickstart--training--inference)
+7. [How the notebook works (step-by-step)](#how-the-notebook-works-step-by-step)
+8. [Tips for experiments & scaling](#tips-for-experiments--scaling)
+9. [Results examples](#results-examples)
+10. [Known limitations & TODOs](#known-limitations--todos)
+11. [Contribution, License](#contribution-license--contact)
 
 ---
 
